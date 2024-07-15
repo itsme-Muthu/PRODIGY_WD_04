@@ -1,4 +1,4 @@
-# PRODIGY_WD_04
+# PRODIGY_WD_04 - Prodigy Web Development Internship - Task 03
 
 <h2>HTML :</h2>
 
@@ -141,7 +141,6 @@ These features ensure that your portfolio website is well-structured, visually a
 <h3> Responsiveness </h3>
 
 ![image](https://github.com/user-attachments/assets/e9e65419-79cc-4dcd-b6b7-30c569159419)
-
 
 
 
